@@ -74,30 +74,43 @@ I used **MySQL Workbench** to model a database and generate **EER (Extended Enti
 In this section I will demonstrate several [SQL queries](https://github.com/veselaDV/greenspot-grocer-dataset/tree/main/sql-queries) to test the relationships between tables. 
 In addition I will answer the following questions:
 
-	Investigating **inventory levels** and **cost per product**. What are the levels of our inventory by product? What is the cost of the products? Are there products with insufficient stock?
+
+Investigating **inventory levels** and **cost per product**. What are the levels of our inventory by product? What is the cost of the products? Are there products with insufficient stock?
+
 
 ![Screenshot of inventory levels query](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Inventory%20levels%20and%20inventory%20cost%20query.jpg)
 
+
 What are the total **revenue**, total **products sold** and total **orders** for the month of February?
+
 	
 ![Screenshot of revenue sales orders](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Total%20revenue%20sales%20orders.jpg)	
 
+
 Which are the top 3 best performing products? 
-	**Top 3** products with the **highest revenue**.
+**Top 3** products with the **highest revenue**.
+
 
 ![Screenshot of top 3 highest revenue](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Top%203%20products%20by%20revenue.jpg)	
 
-	 **Top 3** products with the **most sales**.
+
+**Top 3** products with the **most sales**.
+
 
 ![Screenshot of top 3 most sales](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Top%203%20products%20by%20sales.jpg)	
 
+
 **Profit** per product. Here I calculate the difference between sale and cost prices for each product. The products with numbers 1000 and 1223 are duplicated because of the change of sale price during the period.
+
 	
 ![Screenshot of profit](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Profit%20per%20product.jpg)	
 
+
 Which is the ** top customer** with the highest number of orders?
+
 	
-![Screenshot of top customer](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Customers%20ranking.jpg)	
+![Screenshot of top customer](https://github.com/veselaDV/greenspot-grocer-dataset/blob/main/screenshots/Customers%20ranking.jpg)
+	
 
 ## **Insights and Conclusions**
 

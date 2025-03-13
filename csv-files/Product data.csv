@@ -1,0 +1,8 @@
+ProductID,description,productType,unit,location,vendor
+1000,Bennet Farm free-range eggs,Dairy,dozen,D12,"Bennet Farms, Rt. 17 Evansville, IL 55446"
+1100,Freshness White beans,Canned,12 ounce can,a2,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"
+1222,Freshness Green beans,Canned,12 ounce can,a3,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"
+1223,Freshness Green beans,Canned,36 oz can,a7,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"
+1224,Freshness Wax beans,Canned,12 ounce can,a3,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678"
+2000,Ruby's Kale,Produce,bunch,p12,"Ruby Redd Produce, LLC, 1212 Milam St., Kenosha, AL, 34567"
+2001,Ruby's Organic Kale,Produce,bunch,po2,"Ruby Redd Produce, LLC, 1212 Milam St., Kenosha, AL, 34567"
